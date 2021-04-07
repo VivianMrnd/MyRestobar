@@ -151,7 +151,7 @@ header{
     border-radius: 30px;
     font-size: 75%;
     padding: 5px 15px;
-    margin-left: 33%;
+    margin-left: 27%;
     text-decoration: none;
 }
 
@@ -242,26 +242,32 @@ footer{
     .navcon{
         background-color: #4e4747;
     }
+    .nav-item{
+        text-transform: uppercase;
+        font-size:13px;
+        letter-spacing: 1px;
+        transition: 0.5s;
+    }
     .btn{
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     .header-text{
          padding-top: 0;
          margin-bottom: 0;
     }
     .headermain{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .OTcard{
         margin: 0;
     }
     .ft2{
-        font-size: 100%;
+        font-size: 80%;
         text-align: center;
     }
     
     .ft2 i{
-        font-size: 70%;
+        font-size: 65%;
         color: #fff;
         margin-right: 10px;
     }
